@@ -1,4 +1,4 @@
-# simply_weather
+# Simply Weather
 
 This repository holds the source code for Weatherly, a beginner-friendly weather app built with Flutter. It retrieves real-time weather data for your location using the http and geolocator packages.
 
