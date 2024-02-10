@@ -1,6 +1,6 @@
 # Simply Weather
 
-This repository holds the source code for Weatherly, a beginner-friendly weather app built with Flutter. It retrieves real-time weather data for your location using the http and geolocator packages.
+This repository holds the source code for Simply Weather, a beginner-friendly weather app built with Flutter. It retrieves real-time weather data for your location using the http and geolocator packages.
 
 Key Features:
 
@@ -12,7 +12,7 @@ Key Features:
 
 Getting Started:
 
--. Clone the repository: Use git clone https://github.com/your-username/Weatherly.git to download the code.
+-. Clone the repository: Use git clone https://github.com/bryantach06/SimplyWeather.git to download the code.
 -. Run the app: Make sure you have Flutter installed and configured. Then, run flutter run to launch the app on your device or simulator.
 -. Customize (Optional): Modify the colors, fonts, and other aspects of the UI to match your preferences.
 
