@@ -2,7 +2,8 @@
 
 This repository holds the source code for Simply Weather, a beginner-friendly weather app built with Flutter. It retrieves real-time weather data for your location using the http and geolocator packages.
 
-Key Features:
+
+# Key Features:
 
 -. Simple and intuitive interface: Easy to navigate and understand, perfect for both new and experienced Flutter users.
 
@@ -14,7 +15,8 @@ Key Features:
 
 -. Open source: Contribute to the project and learn from others!
 
-Getting Started:
+
+# Getting Started:
 
 -. Clone the repository: Use git clone https://github.com/bryantach06/SimplyWeather.git to download the code.
 
@@ -22,13 +24,15 @@ Getting Started:
 
 -. Customize (Optional): Modify the colors, fonts, and other aspects of the UI to match your preferences.
 
-Dependencies:
+
+# Dependencies:
 
 -. http: Used for making network requests to retrieve weather data. (https://pub.dev/packages/http)
 
 -. geolocator: Provides access to location information. (https://pub.dev/packages/geolocator)
 
-Contributing:
+
+# Contributing:
 
 We welcome contributions from the community! Feel free to suggest improvements, fix bugs, or add new features. Please follow the contribution guidelines before submitting a pull request.
 
